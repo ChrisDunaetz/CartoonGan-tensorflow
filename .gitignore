@@ -12,7 +12,6 @@ tmp/
 runs/
 result/
 ckpts/
-input_images/
 output_images/
 **/training_checkpoints/
 models/
